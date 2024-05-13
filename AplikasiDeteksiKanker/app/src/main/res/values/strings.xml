@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analisa Gambar</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="no_media_selected">Tidak ada gambar yang dipilih</string>
+    <string name="no_image_selected">Harap pilih gambar terlebih dahulu</string>
+    <string name="image_crop_failed">Gambar tidak berhasil di crop</string>
+    <string name="image_classifier_failed">Image Classifier tidak berhasil dijalankan</string>
+    <string name="label_analysis">Label Hasil Analisa</string>
+    <string name="score_analysis">Score Hasil Analisa</string>
+    <string name="history_image_description">HistoryImageDescription</string>
+    <string name="result_saved_successfully">Hasil berhasil disimpan</string>
+    <string name="save_result">Simpan Hasil</string>
+    <string name="image_preview">Image Preview</string>
+    <string name="history">History</string>
+    <string name="welcome_title">Selamat Datang di Asclepius</string>
+    <string name="welcome_message">Aplikasi Asclepius merupakan aplikasi untuk mendeteksi penyakit kanker. Silahkan pilih gambar yang ingin dianalisa.</string>
+    <string name="no_history_result">Belum ada riwayat analisa penyakit kanker</string>
+    <string name="article_image">Article Image</string>
+    <string name="source">Source</string>
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="date_time">Tanggal</string>
+    <string name="result_text_cancer">Gambar yang anda pilih menunjukkan adanya kanker, segera hubungi rumah sakit terdekat jika hal tersebut terjadi pada Anda!</string>
+    <string name="result_text_no_cancer">Gambar yang anda pilih tidak menunjukkan adanya kanker, namun Anda dapat melihat berita dibawah ini untuk mencegah terjadinya kanker.</string>
+    <string name="result_text_unknown">Terjadi kesalahan saat melakukan analisis gambar, silahkan coba lagi.</string>
+    <string name="save_result_fab">Simpan Hasil FAB</string>
+    <string name="no_article">Mohon maaf, namun sepertinya tidak ada berita atau artikel mengenai kanker.</string>
+</resources>
