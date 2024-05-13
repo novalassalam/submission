@@ -4,7 +4,7 @@
 # Installation
 1. Clone this repository to run locally
 ```
-git clone https://github.com/bimapras/Bike-Sharing.git
+git clone 
 ```
 2. Install the requirement on command prompt using pip
 ```
